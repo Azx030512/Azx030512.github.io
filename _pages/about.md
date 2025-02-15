@@ -27,7 +27,7 @@ My research interest lies in the areas of 3D vision. I had a wonderful time as a
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='https://zju3dv.github.io/GURecon/sources/video/teaser.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI25-GURecon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction](https://zju3dv.github.io/GURecon/sources/aaai25_gurecon.pdf)
@@ -37,10 +37,6 @@ Zesong Yang\*, Ru Zhang\*, Jiale Shi\*, **Zixiang Ai**, Boming Zhao, Hujun Bao, 
 [**Paper**](https://arxiv.org/abs/2412.14939) [**Code**](https://github.com/zju3dv/GURecon) [**Project**](https://zju3dv.github.io/GURecon/)
 
 - In this paper, we present a novel framework, i.e, GURecon, which establishes a geometric uncertainty field for the neural surface based on geometric consistency.
-
-</div>
-</div>
-
 
 
 # 🎖 Honors and Awards
