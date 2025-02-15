@@ -38,6 +38,8 @@ Zesong Yang\*, Ru Zhang\*, Jiale Shi\*, **Zixiang Ai**, Boming Zhao, Hujun Bao, 
 
 - In this paper, we present a novel framework, i.e, GURecon, which establishes a geometric uncertainty field for the neural surface based on geometric consistency.
 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 
