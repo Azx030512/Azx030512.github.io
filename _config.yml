@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zixiang Ai"
-description              : "College of Computer Science, Zhejiang University"
+description              : "College of Computer Science,\nZhejiang University"
 repository               : "https://github.com/Azx030512/Azx030512.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Zixiang Ai"
   avatar           : "images/avatar.jpg"
   bio              : "A CS undergraduate at Zhejiang University, and soon a PhD candidate at Peking University(2025)."
-  location         : "Beijing, China"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BMqsLtEAAAAJ"
