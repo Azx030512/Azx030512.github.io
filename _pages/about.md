@@ -40,11 +40,10 @@ Zesong Yang\*, Ru Zhang\*, Jiale Shi\*, **Zixiang Ai**, Boming Zhao, Hujun Bao, 
 
 - In this paper, we present a novel framework, i.e, GURecon, which establishes a geometric uncertainty field for the neural surface based on geometric consistency.
 
-
-
-
 </div>
 </div>
+
+
 
 # Honors and Awards
 
@@ -54,4 +53,4 @@ Zesong Yang\*, Ru Zhang\*, Jiale Shi\*, **Zixiang Ai**, Boming Zhao, Hujun Bao, 
 # Education
 
 - **2025.09 - 2030.06**: PhD candidate, School of Intelligence Science and Technology, Peking University.
-- **2021.09 - 2025.07 (Expected)**: Software Engineering, College of Computer Science and Technology, Zhejiang University.
+- **2021.09 - 2025.07 (Now)**: Software Engineering, College of Computer Science and Technology, Zhejiang University.
