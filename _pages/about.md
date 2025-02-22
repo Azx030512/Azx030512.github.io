@@ -32,7 +32,9 @@ My primary research interest is in **3D Vision**. I have had the privilege of wo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 Oral</div><img src='images/AAAI25-GURecon.png' alt="GURecon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction](https://zju3dv.github.io/GURecon/sources/aaai25_gurecon.pdf) 
+
 **AAAI 2025 (Oral)**
+
 Zesong Yang\*, Ru Zhang\*, Jiale Shi\*, **Zixiang Ai**, Boming Zhao, Hujun Bao, Luwei Yang, Zhaopeng Cui†
 
 [**Paper**](https://arxiv.org/abs/2412.14939) &nbsp; [**Code**](https://github.com/zju3dv/GURecon) &nbsp; [**Project**](https://zju3dv.github.io/GURecon/)
