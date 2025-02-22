@@ -15,8 +15,8 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      : "G-JDSK1TTJ6E" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  "google2706b92645862992.html" # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  <meta name="google-site-verification" content="GQf10fWs3WzRYlhWoIF0VnwH4F-F378LtWcgcqqfwuU" /> # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  <meta name="msvalidate.01" content="FC0F82FD21134D41CD84DD1BD5C08FE1" /> # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
