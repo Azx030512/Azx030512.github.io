@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a final-year undergraduate student at the [College of Computer Science, Zhejiang University](https://www.zju.edu.cn/), and I will begin my PhD studies at the [Wangxuan Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn/index.htm) in 2025, under the supervision of Prof. Jiahuan Zhou.
 
-My primary research interest is in **3D Vision**. I have had the privilege of working as an on-site research intern at the [State Key Laboratory of CAD&amp;CG](http://www.cad.zju.edu.cn/), where I collaborated closely with Prof. Zhaopeng Cui.
+My primary research interest is in **3D Vision**. I have had the privilege of working as an on-site research intern at the [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/), where I collaborated closely with Prof. Zhaopeng Cui.
 
 # News
 
