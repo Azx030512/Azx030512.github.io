@@ -18,7 +18,7 @@ redirect_from:
 
 # About Me
 
-I am currently a final-year undergraduate student at the [College of Computer Science, Zhejiang University](https://www.zju.edu.cn/), and I will begin my PhD studies at the [Wangxuan Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn/index.htm) in 2025, under the supervision of Prof. Jiahuan Zhou.
+I am currently a final-year undergraduate student at the [College of Computer Science, Zhejiang University](http://www.cs.zju.edu.cn/), and I will begin my PhD studies at the [Wangxuan Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn) of [School of Computer Science, Peking University](https://cs.pku.edu.cn) in 2025, under the supervision of Prof. Jiahuan Zhou.
 
 My primary research interest is in **3D Vision**. I have had the privilege of working as an on-site research intern at the [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/), where I collaborated closely with Prof. Zhaopeng Cui.
 
@@ -53,5 +53,5 @@ Zesong Yang\*, Ru Zhang\*, Jiale Shi\*, **Zixiang Ai**, Boming Zhao, Hujun Bao, 
 
 # Education
 
-- **2025.09 - 2030.06**: PhD candidate, School of Intelligence Science and Technology, Peking University.
+- **2025.09 - 2030.06**: PhD candidate, School of Computer Science, Peking University.
 - **2021.09 - 2025.07 (Now)**: Software Engineering, College of Computer Science and Technology, Zhejiang University.
