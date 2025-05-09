@@ -29,17 +29,40 @@ My primary research interest is in **3D Vision**. I have had the privilege of wo
 
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 Oral</div><img src='images/AAAI25-GURecon.png' alt="GURecon" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction](https://zju3dv.github.io/GURecon/sources/aaai25_gurecon.pdf) 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">AAAI 2025 Oral</div>
+      <img src='images/AAAI25-GURecon.png' alt="GURecon" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction](https://zju3dv.github.io/GURecon/sources/aaai25_gurecon.pdf) 
 
-**AAAI 2025 (Oral)**
+  **AAAI 2025 (Oral)**
 
-Zesong Yang\*, Ru Zhang\*, Jiale Shi\*, **Zixiang Ai**, Boming Zhao, Hujun Bao, Luwei Yang, Zhaopeng Cui†
+  Zesong Yang\*, Ru Zhang\*, Jiale Shi\*, **Zixiang Ai**, Boming Zhao, Hujun Bao, Luwei Yang, Zhaopeng Cui†
 
-[**Paper**](https://arxiv.org/abs/2412.14939) &nbsp; [**Code**](https://github.com/zju3dv/GURecon) &nbsp; [**Project**](https://zju3dv.github.io/GURecon/)
+  [**Paper**](https://arxiv.org/abs/2412.14939) &nbsp; [**Code**](https://github.com/zju3dv/GURecon) &nbsp; [**Project**](https://zju3dv.github.io/GURecon/)
 
-- In this paper, we present a novel framework, i.e, GURecon, which establishes a geometric uncertainty field for the neural surface based on geometric consistency.
+  - In this paper, we present a novel framework, i.e, GURecon, which establishes a geometric uncertainty field for the neural surface based on geometric consistency.
+
+
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICML 2025 Poster</div>
+      <img src='images/ICML25-GAPrompt.png' alt="GAPrompt" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model](https://www.arxiv.org/abs/2505.04119) 
+
+  **ICML 2025**
+
+  **Zixiang Ai**, Zichen Liu, Yuanhang Lei, Zhenyu Cui, Xu Zou, Jiahuan Zhou†
+
+  [**Paper**](https://www.arxiv.org/abs/2505.04119) &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICML2025-GAPrompt) &nbsp;
+  - In this paper, we propose a novel Geometry-Aware Point Cloud Prompt (GAPrompt) that leverages geometric cues to enhance the adaptability of 3D vision models.
 
 </div>
 </div>
