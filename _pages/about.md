@@ -36,7 +36,7 @@ My primary research interest is in **3D Vision**. I have had the privilege of wo
       <img src='images/AAAI25-GURecon.png' alt="GURecon" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="2">
+  <div class='paper-box-text' markdown="1">
   [GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction](https://zju3dv.github.io/GURecon/sources/aaai25_gurecon.pdf) 
 
   **AAAI 2025 (Oral)**
