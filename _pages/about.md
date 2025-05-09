@@ -47,7 +47,9 @@ My primary research interest is in **3D Vision**. I have had the privilege of wo
 
   - In this paper, we present a novel framework, i.e, GURecon, which establishes a geometric uncertainty field for the neural surface based on geometric consistency.
 
+</div>
 
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICML 2025 Poster</div>
@@ -63,8 +65,6 @@ My primary research interest is in **3D Vision**. I have had the privilege of wo
 
   [**Paper**](https://www.arxiv.org/abs/2505.04119) &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICML2025-GAPrompt) &nbsp;
   - In this paper, we propose a novel Geometry-Aware Point Cloud Prompt (GAPrompt) that leverages geometric cues to enhance the adaptability of 3D vision models.
-
-</div>
 </div>
 
 
