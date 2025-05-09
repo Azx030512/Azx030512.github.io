@@ -36,7 +36,7 @@ My primary research interest is in **3D Vision**. I have had the privilege of wo
       <img src='images/AAAI25-GURecon.png' alt="GURecon" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="2">
   [GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction](https://zju3dv.github.io/GURecon/sources/aaai25_gurecon.pdf) 
 
   **AAAI 2025 (Oral)**
@@ -47,6 +47,7 @@ My primary research interest is in **3D Vision**. I have had the privilege of wo
 
   - In this paper, we present a novel framework, i.e, GURecon, which establishes a geometric uncertainty field for the neural surface based on geometric consistency.
 
+</div>
 </div>
 
 <div class='paper-box'>
@@ -66,7 +67,6 @@ My primary research interest is in **3D Vision**. I have had the privilege of wo
   [**Paper**](https://www.arxiv.org/abs/2505.04119) &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICML2025-GAPrompt) &nbsp;
   - In this paper, we propose a novel Geometry-Aware Point Cloud Prompt (GAPrompt) that leverages geometric cues to enhance the adaptability of 3D vision models.
 </div>
-
 </div>
 
 
