@@ -18,9 +18,9 @@ redirect_from:
 
 # About Me
 
-I am currently a final-year undergraduate student at the [College of Computer Science, Zhejiang University](http://www.cs.zju.edu.cn/), and I will begin my PhD studies at the [Wangxuan Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn) of [School of Computer Science, Peking University](https://cs.pku.edu.cn) in 2025, under the supervision of Prof. Jiahuan Zhou.
+I am currently a final-year undergraduate student at the **College of Computer Science and Technology, Zhejiang University**, where I built a solid background in computer science and developed a strong interest in 3D vision. I will begin my Ph.D. studies at the Wangxuan Institute of Computer Technology, **School of Computer Science, Peking University**, in 2025, under the supervision of Prof. Jiahuan Zhou.
 
-My primary research interest is in **3D Vision**. I have had the privilege of working as an on-site research intern at the [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/), where I collaborated closely with Prof. Zhaopeng Cui.
+My research interest focuses on 3D vision, including scene understanding and generation. I had a wonderful time as an on-site intern at the State Key Laboratory of CAD&CG, where I worked closely with Prof. Zhaopeng Cui on 3D scene reconstruction.
 
 # News
 - **2025.05**: Two papers accepted by **ICML 2025**.
