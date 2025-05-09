@@ -67,6 +67,7 @@ My primary research interest is in **3D Vision**. I have had the privilege of wo
   - In this paper, we propose a novel Geometry-Aware Point Cloud Prompt (GAPrompt) that leverages geometric cues to enhance the adaptability of 3D vision models.
 </div>
 
+</div>
 
 
 # Honors and Awards
