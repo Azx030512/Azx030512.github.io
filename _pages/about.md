@@ -81,7 +81,7 @@ My research interest focuses on 3D vision, including scene understanding and gen
 
   **AAAI 2025 (Oral)**
 
-  Zesong Yang\*, Ru Zhang\*, Jiale Shi\*, **Zixiang Ai**, Boming Zhao, Hujun Bao, Luwei Yang, Zhaopeng Cui†
+  Zesong Yang\*,  Jiale Shi\*, Ru Zhang, **Zixiang Ai**, Boming Zhao, Hujun Bao, Luwei Yang, Zhaopeng Cui†
 
   [**Paper**](https://arxiv.org/abs/2412.14939) &nbsp; [**Code**](https://github.com/zju3dv/GURecon) &nbsp; [**Project**](https://zju3dv.github.io/GURecon/)
 
