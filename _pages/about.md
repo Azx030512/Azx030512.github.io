@@ -23,6 +23,7 @@ I am currently a final-year undergraduate student at the **College of Computer S
 My research interest focuses on 3D vision, including scene understanding and generation. I had a wonderful time as an on-site intern at the State Key Laboratory of CAD&CG, where I worked closely with Prof. Zhaopeng Cui on 3D scene reconstruction.
 
 # News
+- **2025.06**: One paper accepted by **ICCV 2025**.
 - **2025.05**: Two papers accepted by **ICML 2025**.
 - **2024.12**: One paper accepted by **AAAI 2025**.
 - **2024.09**: Joined the **School of Computer Science, Peking University**. 🎉🎉
@@ -95,6 +96,8 @@ My research interest focuses on 3D vision, including scene understanding and gen
 
 # Honors and Awards
 
+- **2025.06**: Outstanding Graduate of Zhejiang Province, 2025
+- **2025.05**: Outstanding Graduate of Zhejiang University, 2025
 - **2024.10**: China National Scholarship, 2024
 - **2024.10**: First Class Scholarship, Zhejiang University, 2024
 
