@@ -40,11 +40,12 @@ My research interest focuses on 3D vision, including scene understanding and gen
   <div class='paper-box-text' markdown="1">
   UPP: Unified Point-Level Prompting for Robust Point Cloud Analysis
 
-  **ICML 2025**
+  **ICCV 2025**
 
   **Zixiang Ai**, Zhenyu Cui, Yuxin Peng, Jiahuan Zhou†
 
-  [**Paper**]() &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICCV2025-UPP) &nbsp;
+  <!-- [**Paper**]() &nbsp;  -->
+  [**Code**](https://github.com/zhoujiahuan1991/ICCV2025-UPP) &nbsp;
   - Existing methods focus on enhancing point cloud quality by developing dedicated denoising and completion models. However, due to the isolation between the point cloud enhancement tasks and downstream tasks, these methods fail to work in various real-world domains. To tackle the above challenges, we propose a unified point-level prompting method that reformulates point cloud denoising and completion as a prompting mechanism, enabling robust analysis in a parameter-efficient manner.
 </div>
 </div>
@@ -83,7 +84,7 @@ My research interest focuses on 3D vision, including scene understanding and gen
 
   **Zixiang Ai**, Zichen Liu, Yuanhang Lei, Zhenyu Cui, Xu Zou, Jiahuan Zhou†
 
-  <!-- [**Paper**](https://www.arxiv.org/abs/2505.04119) &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICML2025-GAPrompt) &nbsp; -->
+  [**Paper**](https://www.arxiv.org/abs/2505.04119) &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICML2025-GAPrompt) &nbsp;
   - In this paper, we propose a novel Geometry-Aware Point Cloud Prompt (GAPrompt) that leverages geometric cues to enhance the adaptability of 3D vision models.
 </div>
 </div>
