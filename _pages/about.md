@@ -38,9 +38,10 @@ My research interest focuses on 3D vision, including scene understanding and gen
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  UPP: Unified Point-Level Prompting for Robust Point Cloud Analysis
+  
+  **UPP: Unified Point-Level Prompting for Robust Point Cloud Analysis**
 
-  **ICCV 2025**
+  ***ICCV 2025***
 
   **Zixiang Ai**, Zhenyu Cui, Yuxin Peng, Jiahuan Zhou†
 
@@ -58,9 +59,10 @@ My research interest focuses on 3D vision, including scene understanding and gen
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  Vision Graph Prompting via Semantic Low-Rank Decomposition
+  
+  **Vision Graph Prompting via Semantic Low-Rank Decomposition**
 
-  **ICML 2025**
+  ***ICML 2025***
 
   **Zixiang Ai**, Zichen Liu, Jiahuan Zhou†
 
@@ -78,9 +80,10 @@ My research interest focuses on 3D vision, including scene understanding and gen
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model
+  
+  **GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**
 
-  **ICML 2025**
+  ***ICML 2025***
 
   **Zixiang Ai**, Zichen Liu, Yuanhang Lei, Zhenyu Cui, Xu Zou, Jiahuan Zhou†
 
@@ -98,9 +101,10 @@ My research interest focuses on 3D vision, including scene understanding and gen
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  [GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction](https://zju3dv.github.io/GURecon/sources/aaai25_gurecon.pdf) 
+  
+  **GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction**
 
-  **AAAI 2025 (Oral)**
+  ***AAAI 2025 (Oral)***
 
   Zesong Yang\*,  Jiale Shi\*, Ru Zhang, **Zixiang Ai**, Boming Zhao, Hujun Bao, Luwei Yang, Zhaopeng Cui†
 
