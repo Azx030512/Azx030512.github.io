@@ -34,7 +34,7 @@ My research interest focuses on 3D vision, including scene understanding and gen
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICCV 2025 Poster</div>
-      <img src='images/ICML25-VGP.png' alt="VGP" width="100%">
+      <img src='images/ICCV25-UPP.png' alt="VGP" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
