@@ -33,12 +33,31 @@ My research interest focuses on 3D vision, including scene understanding and gen
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">ICCV 2025 Poster</div>
+      <img src='images/ICML25-VGP.png' alt="VGP" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  UPP: Unified Point-Level Prompting for Robust Point Cloud Analysis
+
+  **ICML 2025**
+
+  **Zixiang Ai**, Zhenyu Cui, Yuxin Peng, Jiahuan Zhou†
+
+  [**Paper**]() &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICCV2025-UPP) &nbsp;
+  - Existing methods focus on enhancing point cloud quality by developing dedicated denoising and completion models. However, due to the isolation between the point cloud enhancement tasks and downstream tasks, these methods fail to work in various real-world domains. To tackle the above challenges, we propose a unified point-level prompting method that reformulates point cloud denoising and completion as a prompting mechanism, enabling robust analysis in a parameter-efficient manner.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">ICML 2025 Poster</div>
       <img src='images/ICML25-VGP.png' alt="VGP" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  [Vision Graph Prompting via Semantic Low-Rank Decomposition](https://arxiv.org/abs/2505.04121) 
+  Vision Graph Prompting via Semantic Low-Rank Decomposition
 
   **ICML 2025**
 
@@ -58,13 +77,13 @@ My research interest focuses on 3D vision, including scene understanding and gen
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  [GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model](https://www.arxiv.org/abs/2505.04119) 
+  GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model
 
   **ICML 2025**
 
   **Zixiang Ai**, Zichen Liu, Yuanhang Lei, Zhenyu Cui, Xu Zou, Jiahuan Zhou†
 
-  [**Paper**](https://www.arxiv.org/abs/2505.04119) &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICML2025-GAPrompt) &nbsp;
+  <!-- [**Paper**](https://www.arxiv.org/abs/2505.04119) &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICML2025-GAPrompt) &nbsp; -->
   - In this paper, we propose a novel Geometry-Aware Point Cloud Prompt (GAPrompt) that leverages geometric cues to enhance the adaptability of 3D vision models.
 </div>
 </div>
