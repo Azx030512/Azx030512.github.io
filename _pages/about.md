@@ -46,8 +46,8 @@ My research interest focuses on 3D vision, including scene understanding and gen
   **Zixiang Ai**, Zhenyu Cui, Yuxin Peng, Jiahuan Zhou†
 
   <!-- [**Paper**]() &nbsp;  -->
-  [**Code**](https://github.com/zhoujiahuan1991/ICCV2025-UPP) &nbsp;
-  - Existing methods focus on enhancing point cloud quality by developing dedicated denoising and completion models. However, due to the isolation between the point cloud enhancement tasks and downstream tasks, these methods fail to work in various real-world domains. To tackle the above challenges, we propose a unified point-level prompting method that reformulates point cloud denoising and completion as a prompting mechanism, enabling robust analysis in a parameter-efficient manner.
+ [**Paper**](https://arxiv.org/pdf/2507.18997) &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICCV2025-UPP) &nbsp;
+  - We propose a unified point-level prompting method that reformulates point cloud denoising and completion as a prompting mechanism, enabling robust analysis in a parameter-efficient manner.
 </div>
 </div>
 
