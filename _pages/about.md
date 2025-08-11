@@ -22,7 +22,7 @@ I am a Ph.D. candidate at the **Wangxuan Institute of Computer Technology**, **S
 
 My research interests lie in 3D vision and graphics, with a focus on point cloud processing, scene understanding, and neural scene generation. I am particularly interested in developing efficient, geometry-aware models that unify perception and generation within a single framework. Ultimately, my goal is to build powerful real-world 3D perception models that seamlessly integrate understanding and generation capabilities, and can be deployed on humanoid robot platforms for intelligent interaction in complex environments.
 
-Previously, I was a research intern at the **State Key Laboratory of CAD\&CG**, Zhejiang University, where I worked with **Prof. Zhaopeng Cui** on large-scale 3D scene reconstruction. These experiences have strengthened my passion for advancing both the theoretical foundations and practical applications of 3D visual understanding and generation.
+Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Zhejiang University, where I worked with **Prof. Zhaopeng Cui** on large-scale 3D scene reconstruction. These experiences have strengthened my passion for advancing both the theoretical foundations and practical applications of 3D visual understanding and generation.
 
 
 # News
