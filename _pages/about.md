@@ -66,7 +66,7 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
   </div>
   <div class='paper-box-text' markdown="1">
   
-  ### Vision Graph Prompting via Semantic Low-Rank Decomposition
+  **Vision Graph Prompting via Semantic Low-Rank Decomposition**
 
   ***ICML 2025***
 
