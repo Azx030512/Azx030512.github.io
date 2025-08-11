@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "<https://cdn.jsdelivr.net/gh/>" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "<https://raw.githubusercontent.com/>" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
@@ -18,11 +18,15 @@ redirect_from:
 
 # About Me
 
-I am currently a final-year undergraduate student at the **College of Computer Science and Technology, Zhejiang University**, where I built a solid background in computer science and developed a strong interest in 3D vision. I will begin my Ph.D. studies at the Wangxuan Institute of Computer Technology, **School of Computer Science, Peking University**, in 2025, under the supervision of Prof. Jiahuan Zhou.
+I am a Ph.D. candidate at the **Wangxuan Institute of Computer Technology**, **School of Computer Science**, **Peking University**, supervised by **Prof. Jiahuan Zhou**. I received my B.Eng. in Software Engineering from the **College of Computer Science and Technology**, **Zhejiang University**, in 2025.
 
-My research interest focuses on 3D vision, including scene understanding and generation. I had a wonderful time as an on-site intern at the State Key Laboratory of CAD&CG, where I worked closely with Prof. Zhaopeng Cui on 3D scene reconstruction.
+My research interests lie in 3D vision and graphics, with a focus on point cloud processing, scene understanding, and neural scene generation. I am particularly interested in developing efficient, geometry-aware models that unify perception and generation within a single framework. Ultimately, my goal is to build powerful real-world 3D perception models that seamlessly integrate understanding and generation capabilities, and can be deployed on humanoid robot platforms for intelligent interaction in complex environments.
+
+Previously, I was a research intern at the **State Key Laboratory of CAD\&CG**, Zhejiang University, where I worked with **Prof. Zhaopeng Cui** on large-scale 3D scene reconstruction. These experiences have strengthened my passion for advancing both the theoretical foundations and practical applications of 3D visual understanding and generation.
+
 
 # News
+
 - **2025.06**: One paper accepted by **ICCV 2025**.
 - **2025.05**: Two papers accepted by **ICML 2025**.
 - **2024.12**: One paper accepted by **AAAI 2025**.
@@ -47,7 +51,9 @@ My research interest focuses on 3D vision, including scene understanding and gen
 
   <!-- [**Paper**]() &nbsp;  -->
  [**Paper**](https://arxiv.org/pdf/2507.18997) &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICCV2025-UPP) &nbsp;
-  - We propose a unified point-level prompting method that reformulates point cloud denoising and completion as a prompting mechanism, enabling robust analysis in a parameter-efficient manner.
+
+- We propose a unified point-level prompting method that reformulates point cloud denoising and completion as a prompting mechanism, enabling robust analysis in a parameter-efficient manner.
+
 </div>
 </div>
 
@@ -60,17 +66,18 @@ My research interest focuses on 3D vision, including scene understanding and gen
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **Vision Graph Prompting via Semantic Low-Rank Decomposition**
+  ### Vision Graph Prompting via Semantic Low-Rank Decomposition
 
   ***ICML 2025***
 
   **Zixiang Ai**, Zichen Liu, Jiahuan Zhou†
 
   [**Paper**](https://arxiv.org/abs/2505.04121) &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICML2025-VGP) &nbsp;
-  - In this paper, we propose Vision Graph Prompting (VGP), a novel framework tailored for vision graph structures. Our core insight reveals that semantically connected components in the graph exhibit low-rank properties.
-</div>
-</div>
 
+- In this paper, we propose Vision Graph Prompting (VGP), a novel framework tailored for vision graph structures. Our core insight reveals that semantically connected components in the graph exhibit low-rank properties.
+
+</div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -88,10 +95,11 @@ My research interest focuses on 3D vision, including scene understanding and gen
   **Zixiang Ai**, Zichen Liu, Yuanhang Lei, Zhenyu Cui, Xu Zou, Jiahuan Zhou†
 
   [**Paper**](https://www.arxiv.org/abs/2505.04119) &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICML2025-GAPrompt) &nbsp;
-  - In this paper, we propose a novel Geometry-Aware Point Cloud Prompt (GAPrompt) that leverages geometric cues to enhance the adaptability of 3D vision models.
-</div>
-</div>
 
+- In this paper, we propose a novel Geometry-Aware Point Cloud Prompt (GAPrompt) that leverages geometric cues to enhance the adaptability of 3D vision models.
+
+</div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -110,13 +118,10 @@ My research interest focuses on 3D vision, including scene understanding and gen
 
   [**Paper**](https://arxiv.org/abs/2412.14939) &nbsp; [**Code**](https://github.com/zju3dv/GURecon) &nbsp; [**Project**](https://zju3dv.github.io/GURecon/)
 
-  - In this paper, we present a novel framework, i.e, GURecon, which establishes a geometric uncertainty field for the neural surface based on geometric consistency.
+- In this paper, we present a novel framework, i.e, GURecon, which establishes a geometric uncertainty field for the neural surface based on geometric consistency.
 
 </div>
 </div>
-
-
-
 
 # Honors and Awards
 
@@ -127,5 +132,6 @@ My research interest focuses on 3D vision, including scene understanding and gen
 
 # Education
 
-- **2025.09 - 2030.06**: PhD candidate, School of Computer Science, Peking University.
-- **2021.09 - 2025.07 (Now)**: Software Engineering, College of Computer Science and Technology, Zhejiang University.
+- **2025.08 - 2030.06 (Expected)**: PhD Candidate in Computer Science and Technology, School of Computer Science, Peking University.
+- **2021.09 - 2025.07**: Bachelor in Software Engineering, College of Computer Science and Technology, Zhejiang University.
+

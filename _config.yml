@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zixiang Ai(艾子翔)"
-description              : "College of Computer Science, Zhejiang University"
+description              : "School of Computer Science, Peking University"
 repository               : "https://github.com/Azx030512/Azx030512.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zixiang Ai(艾子翔)"
   avatar           : "images/azx.jpg"
-  bio              : "A CS undergraduate at Zhejiang University, and soon a PhD candidate at Peking University(2025)."
-  location         : "Hangzhou, China"
+  bio              : "a PhD candidate at Peking University(2025)."
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BMqsLtEAAAAJ"
-  email            : "zxAi@zju.edu.cn"
+  email            : "zxAi25@stu.pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Azx030512"
   google_plus      :
   keybase          :
   instagram        :
