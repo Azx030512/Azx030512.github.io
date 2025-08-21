@@ -18,7 +18,7 @@ redirect_from:
 
 # About Me
 
-I am a Ph.D. candidate at the **Wangxuan Institute of Computer Technology**, **School of Computer Science**, **Peking University**, supervised by **Prof. Jiahuan Zhou**. I received my B.Eng. in Software Engineering from the **College of Computer Science and Technology**, **Zhejiang University**, in 2025.
+I am a Ph.D. candidate at the **Wangxuan Institute of Computer Technology**, **School of Intelligence**, **Peking University**, supervised by **Prof. Jiahuan Zhou**. I received my B.Eng. in Software Engineering from the **College of Computer Science and Technology**, **Zhejiang University**, in 2025.
 
 My research interests lie in 3D vision and graphics, with a focus on point cloud processing, scene understanding, and neural scene generation. I am particularly interested in developing efficient, geometry-aware models that unify perception and generation within a single framework. Ultimately, my goal is to build powerful real-world 3D perception models that seamlessly integrate understanding and generation capabilities, and can be deployed on humanoid robot platforms for intelligent interaction in complex environments.
 
@@ -132,6 +132,6 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
 
 # Education
 
-- **2025.08 - 2030.06 (Expected)**: PhD Candidate in Computer Science and Technology, School of Computer Science, Peking University.
+- **2025.08 - 2030.06 (Expected)**: PhD Candidate in Intelligent Science and Technology, School of Intelligence, Peking University.
 - **2021.09 - 2025.07**: Bachelor in Software Engineering, College of Computer Science and Technology, Zhejiang University.
 
