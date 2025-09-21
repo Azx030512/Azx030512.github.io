@@ -30,7 +30,7 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
 - **2025.06**: One paper accepted by **ICCV 2025**.
 - **2025.05**: Two papers accepted by **ICML 2025**.
 - **2024.12**: One paper accepted by **AAAI 2025**.
-- **2024.09**: Joined the **School of Computer Science, Peking University**. 🎉🎉
+- **2024.09**: Joined the **School of Intelligence, Peking University**. 🎉🎉
 
 # Publications
 
