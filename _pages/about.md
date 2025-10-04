@@ -32,6 +32,18 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
 - **2024.12**: One paper accepted by **AAAI 2025**.
 - **2024.09**: Joined the **School of Intelligence, Peking University**. 🎉🎉
 
+# Honors and Awards
+
+- **2025.06**: Outstanding Graduate of Zhejiang Province, 2025
+- **2025.05**: Outstanding Graduate of Zhejiang University, 2025
+- **2024.10**: China National Scholarship, 2024
+- **2024.10**: First Class Scholarship, Zhejiang University, 2024
+
+# Education
+
+- **2025.08 - 2030.06 (Expected)**: PhD Candidate in Intelligent Science and Technology, School of Intelligence, Peking University.
+- **2021.09 - 2025.07**: Bachelor in Software Engineering, College of Computer Science and Technology, Zhejiang University.
+
 # Publications
 
 <div class='paper-box'>
@@ -122,16 +134,3 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
 
 </div>
 </div>
-
-# Honors and Awards
-
-- **2025.06**: Outstanding Graduate of Zhejiang Province, 2025
-- **2025.05**: Outstanding Graduate of Zhejiang University, 2025
-- **2024.10**: China National Scholarship, 2024
-- **2024.10**: First Class Scholarship, Zhejiang University, 2024
-
-# Education
-
-- **2025.08 - 2030.06 (Expected)**: PhD Candidate in Intelligent Science and Technology, School of Intelligence, Peking University.
-- **2021.09 - 2025.07**: Bachelor in Software Engineering, College of Computer Science and Technology, Zhejiang University.
-
