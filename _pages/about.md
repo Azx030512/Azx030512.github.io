@@ -27,6 +27,7 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
 
 # News
 
+- **2026.08**: One paper accepted by **IEEE TPAMI**.
 - **2025.06**: One paper accepted by **ICCV 2025**.
 - **2025.05**: Two papers accepted by **ICML 2025**.
 - **2024.12**: One paper accepted by **AAAI 2025**.
@@ -45,6 +46,28 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
 - **2021.09 - 2025.07**: Bachelor in Software Engineering, College of Computer Science and Technology, Zhejiang University.
 
 # Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TPAMI 2026</div>
+      <img src='images/TPAMI26-GAPromptPlus.png' alt="GAPrompt++" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **GAPrompt++: Multi-Granular Geometry-Aware Point Cloud Prompt for 3D Vision Model**
+
+  ***IEEE TPAMI, 2026***
+
+  **Zixiang Ai**\*, Zhenyu Cui\*, Yufei Guo\*, Wenwen Qiang, Lei Chen, Jiwen Lu, Jiahuan Zhou†
+
+  [**Paper**](/files/TPAMI2026-GAPromptPlus.pdf) &nbsp; [**Code**](https://github.com/PKU-OV3-LAB/GAPromptPlus) &nbsp;
+
+- We propose a multi-granular geometry-aware prompting framework for parameter-efficient 3D adaptation, achieving state-of-the-art performance with less than 2% trainable parameters.
+
+</div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
