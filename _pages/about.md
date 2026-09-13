@@ -51,7 +51,7 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
   <div class='paper-box-image'>
     <div>
       <div class="badge">TPAMI 2026</div>
-      <img src='images/TPAMI26-GAPromptPlus.png' alt="GAPrompt++" width="100%">
+      <img src='images/TPAMI26-GAPromptPlus.png' alt="GAPrompt++ method pipeline" width="1600" height="714" loading="lazy" decoding="async">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -73,19 +73,18 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICCV 2025 Poster</div>
-      <img src='images/ICCV25-UPP.png' alt="VGP" width="100%">
+      <img src='images/ICCV25-UPP.png' alt="UPP method overview" width="1501" height="580" loading="lazy" decoding="async">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  
+
   **UPP: Unified Point-Level Prompting for Robust Point Cloud Analysis**
 
   ***ICCV 2025***
 
   **Zixiang Ai**, Zhenyu Cui, Yuxin Peng, Jiahuan Zhou†
 
-  <!-- [**Paper**]() &nbsp;  -->
- [**Paper**](https://arxiv.org/pdf/2507.18997) &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICCV2025-UPP) &nbsp;
+  [**Paper**](https://arxiv.org/pdf/2507.18997) &nbsp; [**Code**](https://github.com/zhoujiahuan1991/ICCV2025-UPP) &nbsp;
 
 - We propose a unified point-level prompting method that reformulates point cloud denoising and completion as a prompting mechanism, enabling robust analysis in a parameter-efficient manner.
 
@@ -96,11 +95,11 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICML 2025 Poster</div>
-      <img src='images/ICML25-VGP.png' alt="VGP" width="100%">
+      <img src='images/ICML25-VGP.png' alt="VGP method overview" width="1600" height="681" loading="lazy" decoding="async">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  
+
   **Vision Graph Prompting via Semantic Low-Rank Decomposition**
 
   ***ICML 2025***
@@ -118,11 +117,11 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICML 2025 Poster</div>
-      <img src='images/ICML25-GAPrompt.png' alt="GAPrompt" width="100%">
+      <img src='images/ICML25-GAPrompt.png' alt="GAPrompt method overview" width="1600" height="843" loading="lazy" decoding="async">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  
+
   **GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**
 
   ***ICML 2025***
@@ -140,16 +139,16 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
   <div class='paper-box-image'>
     <div>
       <div class="badge">AAAI 2025 Oral</div>
-      <img src='images/AAAI25-GURecon.png' alt="GURecon" width="100%">
+      <img src='images/AAAI25-GURecon.png' alt="GURecon method overview" width="1861" height="745" loading="lazy" decoding="async">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  
+
   **GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction**
 
   ***AAAI 2025 (Oral)***
 
-  Zesong Yang\*,  Jiale Shi\*, Ru Zhang, **Zixiang Ai**, Boming Zhao, Hujun Bao, Luwei Yang, Zhaopeng Cui†
+  Zesong Yang\*, Ru Zhang\*, Jiale Shi\*, **Zixiang Ai**, Boming Zhao, Hujun Bao, Luwei Yang, Zhaopeng Cui†
 
   [**Paper**](https://arxiv.org/abs/2412.14939) &nbsp; [**Code**](https://github.com/zju3dv/GURecon) &nbsp; [**Project**](https://zju3dv.github.io/GURecon/)
 

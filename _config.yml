@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Zixiang Ai(艾子翔)"
 description              : "School of Intelligence, Peking University"
-repository               : "https://github.com/Azx030512/Azx030512.github.io"
+repository               : "Azx030512/Azx030512.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zixiang Ai(艾子翔)"
   avatar           : "images/azx.jpeg"
-  bio              : "a PhD candidate at Peking University(2025)."
+  bio              : "Ph.D. candidate at Peking University."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
