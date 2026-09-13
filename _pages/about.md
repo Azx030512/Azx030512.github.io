@@ -27,7 +27,7 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
 
 # News
 
-- **2026.08**: One paper accepted by **IEEE TPAMI**.
+- **2026.08**: One paper accepted by **IEEE TPAMI 2026**.
 - **2025.06**: One paper accepted by **ICCV 2025**.
 - **2025.05**: Two papers accepted by **ICML 2025**.
 - **2024.12**: One paper accepted by **AAAI 2025**.
@@ -62,7 +62,7 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
 
   **Zixiang Ai**\*, Zhenyu Cui\*, Yufei Guo\*, Wenwen Qiang, Lei Chen, Jiwen Lu, Jiahuan Zhou†
 
-  [**Paper**](/files/TPAMI2026-GAPromptPlus.pdf) &nbsp; [**Code**](https://github.com/PKU-OV3-LAB/GAPromptPlus) &nbsp;
+  [**Paper**](https://ieeexplore.ieee.org/document/11676080/) &nbsp; [**Code**](https://github.com/PKU-OV3-LAB/GAPromptPlus) &nbsp;
 
 - We propose a multi-granular geometry-aware prompting framework for parameter-efficient 3D adaptation, achieving state-of-the-art performance with less than 2% trainable parameters.
 
