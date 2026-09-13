@@ -56,8 +56,14 @@
         order: 2;
 
         > div {
+            box-sizing: border-box;
             position: relative;
             width: 100%;
+            padding: 1rem;
+            overflow: hidden;
+            background-color: #f7f8fa;
+            border: 1px solid #edf0f3;
+            border-radius: 0.75rem;
         }
 
         img {
@@ -65,7 +71,8 @@
             width: 100%;
             height: auto;
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            margin: 0 auto;
+            border-radius: 0.5rem;
         }
     }
 
@@ -106,10 +113,11 @@ h1:before, .anchor:before {
 .badge {
     padding: 0.25rem 1rem;
     position: absolute;
-    top: .5em;
-    left: -.5em;
+    top: 1.25rem;
+    left: 0.5rem;
     color: white;
     background-color: #00369f;
+    border-radius: 0 0.35rem 0.35rem 0;
     font-size: .8em;
     line-height: 1.5;
 }
