@@ -59,11 +59,11 @@
             box-sizing: border-box;
             position: relative;
             width: 100%;
-            padding: 1.25rem;
+            padding: 0.5rem;
             overflow: hidden;
-            background-color: #f3f5f7;
-            border: 1px solid #e1e5ea;
-            border-radius: 1rem;
+            background-color: #fff;
+            border: 0;
+            border-radius: 0.75rem;
         }
 
         img {
@@ -114,8 +114,8 @@ h1:before, .anchor:before {
 .badge {
     padding: 0.25rem 1rem;
     position: absolute;
-    top: 1.5rem;
-    left: 0.75rem;
+    top: 0.75rem;
+    left: 0.25rem;
     color: white;
     background-color: #00369f;
     border-radius: 0 0.35rem 0.35rem 0;
