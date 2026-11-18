@@ -27,6 +27,7 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
 
 # News
 
+- **2026.11**: [3R-Adapter](https://arxiv.org/abs/2611.11964) is available on arXiv and accepted as **NeurIPS 2026 Spotlight**.
 - **2026.08**: One paper accepted by **IEEE TPAMI 2026**.
 - **2025.06**: One paper accepted by **ICCV 2025**.
 - **2025.05**: Two papers accepted by **ICML 2025**.
@@ -46,6 +47,28 @@ Previously, I was a research intern at the **State Key Laboratory of CAD&CG**, Z
 - **2021.09 - 2025.07**: Bachelor in Software Engineering, College of Computer Science and Technology, Zhejiang University.
 
 # Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NeurIPS 2026 Spotlight</div>
+      <img src='images/NeurIPS26-3R-Adapter.png' alt="3R-Adapter method pipeline" width="2607" height="869" loading="lazy" decoding="async">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **3R-Adapter: Retrieval, Rewiring, and Refinement for Efficient Adaptation of 3D Reconstruction Model**
+
+  ***NeurIPS 2026 (Spotlight)***
+
+  **Zixiang Ai**, Zhenyu Cui, Xu Zou, Jiahuan Zhou†
+
+  [**Paper**](https://arxiv.org/abs/2611.11964) &nbsp; [**Code**](https://github.com/PKU-OV3-LAB/3R-Adapter) &nbsp; [**Project**](https://pku-ov3-lab.github.io/3R-Adapter/)
+
+- We propose a relation-centric parameter-efficient adaptation framework that retrieves cross-view evidence, rewires relational structures, and refines predictions for long-tail 3D reconstruction.
+
+</div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
